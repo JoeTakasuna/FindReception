@@ -1,0 +1,2 @@
+# FindReception
+SlackとRECEPTIONISTと繋ぐbot
