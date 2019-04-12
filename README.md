@@ -25,3 +25,9 @@ RECEPTIONISTによってSlackに投稿された受付メッセージから推測
 ×× さん (@xx)  
 ○○本社受付 に、 △△ 様が □ 名で来られました。  
 お迎えに行く時は「OK」と言ってから行きましょう。
+
+## ファイル説明
+- README.md：これ
+- find.gs：予定検索スクリプト
+- findReception.xlsx：スプレッドシートのサンプル
+- getSchedule.gs：予定取得スクリプト
