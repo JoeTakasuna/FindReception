@@ -29,7 +29,6 @@ RECEPTIONISTによってSlackに投稿された受付メッセージから推測
 ## ファイル説明
 - README.md：これ
 - find.gs：予定検索スクリプト
-- findReception.xlsx：スプレッドシートのサンプル
 - getSchedule.gs：予定取得スクリプト
 
 bot作成は[こちらのサイト](https://www.yururito.net/entry/slack-gas-simple-reply)を参考にしました
